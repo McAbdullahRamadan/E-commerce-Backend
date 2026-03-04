@@ -1,0 +1,9 @@
+﻿namespace Domain.Entities.Product
+{
+    public class Category : BaseEntity<Guid>
+    {
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public virtual ICollection<Product> Products { get; set; } = new HashSet<Product>();
+    }
+}
