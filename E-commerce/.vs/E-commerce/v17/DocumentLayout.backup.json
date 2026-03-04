@@ -1,12 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\src\\E-commerce\\",
+  "WorkspaceRootPath": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\E-commerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F134583F-0FD9-407F-B348-0E18236BC7E8}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\src\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F134583F-0FD9-407F-B348-0E18236BC7E8}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F134583F-0FD9-407F-B348-0E18236BC7E8}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\src\\infrastructure\\repository\\genericrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{562FEBD8-E780-49B2-8242-341E6632905A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\domain\\entities\\system\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562FEBD8-E780-49B2-8242-341E6632905A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\domain\\common\\ibaseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562FEBD8-E780-49B2-8242-341E6632905A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\domain\\entities\\product\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F134583F-0FD9-407F-B348-0E18236BC7E8}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\infrastructure\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562FEBD8-E780-49B2-8242-341E6632905A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\domain\\entities\\product\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562FEBD8-E780-49B2-8242-341E6632905A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\domain\\common\\baseevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562FEBD8-E780-49B2-8242-341E6632905A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\domain\\entities\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562FEBD8-E780-49B2-8242-341E6632905A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\domain\\entities\\product\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562FEBD8-E780-49B2-8242-341E6632905A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\domain\\entities\\product\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562FEBD8-E780-49B2-8242-341E6632905A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\domain\\entities\\system\\applicationroletranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562FEBD8-E780-49B2-8242-341E6632905A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\domain\\entities\\system\\applicationuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562FEBD8-E780-49B2-8242-341E6632905A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\domain\\entities\\system\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562FEBD8-E780-49B2-8242-341E6632905A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\domain\\entities\\system\\applicationroleclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE8394B-CE4A-460B-B07A-064F0AF0822E}|E-commerce.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE8394B-CE4A-460B-B07A-064F0AF0822E}|E-commerce.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F134583F-0FD9-407F-B348-0E18236BC7E8}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\infrastructure\\infrastructureregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F134583F-0FD9-407F-B348-0E18236BC7E8}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\infrastructure\\repositorydata\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F134583F-0FD9-407F-B348-0E18236BC7E8}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\infrastructure\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F134583F-0FD9-407F-B348-0E18236BC7E8}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\infrastructure\\repositorydata\\photorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F134583F-0FD9-407F-B348-0E18236BC7E8}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\infrastructure\\interfaces\\iphotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F134583F-0FD9-407F-B348-0E18236BC7E8}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\infrastructure\\repositorydata\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F134583F-0FD9-407F-B348-0E18236BC7E8}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\mohamed\\source\\repos\\e-commerce-backend\\infrastructure\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,8 +77,177 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAWwMoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T05:24:41.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBaseAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Common\\IBaseAuditableEntity.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Common\\IBaseAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Common\\IBaseAuditableEntity.cs",
+              "RelativeToolTip": "..\\Domain\\Common\\IBaseAuditableEntity.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T05:12:25.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Infrastructure\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Infrastructure\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T05:02:18.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Entities\\Product\\Review.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Product\\Review.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Entities\\Product\\Review.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Product\\Review.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T04:55:59.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Entities\\Product\\Cart.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Product\\Cart.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Entities\\Product\\Cart.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Product\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T04:51:21.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Entities\\System\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\System\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Entities\\System\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\System\\ApplicationUser.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T04:32:47.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Common\\BaseEvent.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Common\\BaseEvent.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Common\\BaseEvent.cs",
+              "RelativeToolTip": "..\\Domain\\Common\\BaseEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T04:48:09.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Entities\\Product\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Product\\Product.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Entities\\Product\\Product.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Product\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T04:36:45.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Entities\\Product\\Category.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Product\\Category.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Entities\\Product\\Category.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Product\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T04:35:30.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Entities\\Product\\Photo.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Product\\Photo.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Entities\\Product\\Photo.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Product\\Photo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T04:36:15.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationRoleTranslation.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Entities\\System\\ApplicationRoleTranslation.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\System\\ApplicationRoleTranslation.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Entities\\System\\ApplicationRoleTranslation.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\System\\ApplicationRoleTranslation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T04:10:57.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationRoleClaim.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Entities\\System\\ApplicationRoleClaim.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\System\\ApplicationRoleClaim.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Entities\\System\\ApplicationRoleClaim.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\System\\ApplicationRoleClaim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T04:10:53.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationUserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Entities\\System\\ApplicationUserRole.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\System\\ApplicationUserRole.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Entities\\System\\ApplicationUserRole.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\System\\ApplicationUserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T04:07:40.787Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -32,28 +262,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\src\\Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\src\\Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Entities\\System\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\System\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Domain\\Entities\\System\\ApplicationRole.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\System\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T02:16:16.023Z",
+              "WhenOpened": "2026-03-04T04:04:53.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GenericRepositry.cs",
-              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\src\\Infrastructure\\Repository\\GenericRepositry.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Repository\\GenericRepositry.cs",
-              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\src\\Infrastructure\\Repository\\GenericRepositry.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Repository\\GenericRepositry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "InfrastructureRegisteration.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Infrastructure\\InfrastructureRegisteration.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\InfrastructureRegisteration.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Infrastructure\\InfrastructureRegisteration.cs",
+              "RelativeToolTip": "..\\Infrastructure\\InfrastructureRegisteration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T02:10:38.682Z",
+              "WhenOpened": "2026-03-04T03:49:30.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\E-commerce\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\E-commerce\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:48:47.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitOfwork.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Infrastructure\\RepositoryData\\UnitOfwork.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\RepositoryData\\UnitOfwork.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Infrastructure\\RepositoryData\\UnitOfwork.cs",
+              "RelativeToolTip": "..\\Infrastructure\\RepositoryData\\UnitOfwork.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:39:47.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUnitOfwork.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Infrastructure\\Interfaces\\IUnitOfwork.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Interfaces\\IUnitOfwork.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Infrastructure\\Interfaces\\IUnitOfwork.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Interfaces\\IUnitOfwork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:39:08.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PhotoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Infrastructure\\RepositoryData\\PhotoRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\RepositoryData\\PhotoRepository.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Infrastructure\\RepositoryData\\PhotoRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\RepositoryData\\PhotoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:34:08.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPhotoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Infrastructure\\Interfaces\\IPhotoRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Interfaces\\IPhotoRepository.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Infrastructure\\Interfaces\\IPhotoRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Interfaces\\IPhotoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:33:33.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Infrastructure\\RepositoryData\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\RepositoryData\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Infrastructure\\RepositoryData\\ProductRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\RepositoryData\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:32:08.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Infrastructure\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\E-commerce-Backend\\Infrastructure\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:31:32.073Z",
               "EditorCaption": ""
             }
           ]
